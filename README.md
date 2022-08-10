@@ -10,6 +10,7 @@ Before beginning the analysis, the data was preprocessed to ensure accuracy, con
 
 ## Correlation Analysis
 A correlation heat map was plotted to pictorially depict the relationship between the variables. This shows the coefficients of  correlation between the variables. The goal is to determine which variables are highly correlated and consequently eliminate one or more of the variables to prevent issues associated with multicollinearity.
+
 ![Screen Shot 2022-08-09 at 7 19 22 PM](https://user-images.githubusercontent.com/60199900/183778925-e267cb0f-fc88-421f-96ae-51aa7776de78.png)
 
 ## RNN model Prediction versus Linear-Regression model
