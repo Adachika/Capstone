@@ -1,5 +1,7 @@
-# Title
-S&P 500 Prediction using RNNs and Multi-Linear Regression
+# S&P 500 Prediction using RNNs and Multi-Linear Regression
+
+## Link to deployed application
+https://adachika.github.io/Capstone/
 
 ## Description
 This project uses Multiple Linear Regression and Recurrent Neural Networks to predict the S&amp;P 500.RNNs are a class of Artificial  Neural Networks (ANNs) with recurrent connections. RNNs capture the temporal relationship between input/output sequences by introducing feedback to FeedForward (FF) neural networks.The RNNs of interest are Long Short Term Memory (LSTM), Bidirectional LSTM, and Gated Recurrent Unit (GRU). The best performing RNN model is selected for comparison against the Multiple Regression model's performance.
